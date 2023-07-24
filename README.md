@@ -1,2 +1,2 @@
-# hangman
-Simple hangman game implementation
+# Hangman
+Simple hangman game implementation using files in ruby
